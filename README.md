@@ -4,7 +4,12 @@
 </div>
 
 ## Pre-normalization
-![image](https://github.com/user-attachments/assets/334e6bc8-5ddd-407c-a4f4-3c11d7a95b68)
+| Disciplina Aluno | Curso Aluno       | Turma Aluno | CEP Aluno | Endereço Aluno       | Matrícula Aluno | Nome Aluno | Nota1 Aluno | Nota2 Aluno | Média Aluno | Telefone Aluno |
+|------------------|-------------------|-------------|-----------|---------------------|-----------------|------------|-------------|-------------|-------------|----------------|
+| LPDB             | Sistema de Informação | SI3P30      | 70370-280 | SQN 304 BL C APTO 312 | 1025            | Pedro      | 7.0         | 7.0         | 7.0         | 98181-8181     |
+| LPDB             | Sistema de Informação | SI3P30      | 70370-280 | SQN 304 BL C APTO 310 | 1026            | Silva      | 6.0         | 6.0         | 6.0         | 98181-9292     |
+| LPDB             | Sistema de Informação | SI3P30      | 70370-280 | SQN 304 BL C APTO 309 | 1027            | Alex       | 5.0         | 5.0         | 5.0         | 98181-8193     |
+| LPDB             | Ciência da Computação | CC2P30      | 70350-200 | SQN 305 BL C APTO 100 | 9035            | Elis       | 4.0         | 4.0         | 4.0         | 98181-9080     |
 
 ## Normalized
 
